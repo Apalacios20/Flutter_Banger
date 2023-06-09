@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026260560363",
+    "project_id": "banger-1eb74",
+    "storage_bucket": "banger-1eb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026260560363:android:399cc7161b06e340e1d1ae",
+        "android_client_info": {
+          "package_name": "com.example.bangerzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026260560363-3hl7faj46ge78ek0ka7shidmk6idde40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdf5B9Yw7D_a0HBL2QnZ8u81492LdDWak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026260560363-3hl7faj46ge78ek0ka7shidmk6idde40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
